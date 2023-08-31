@@ -1,0 +1,78 @@
+*{
+    margin:0;
+    padding: 0;
+    font-family: Poppins, sans-serif;
+}
+::selection
+{
+    background-color: #ffc107;
+    color:#fff;
+}
+.topNav{
+    background-color: #000;
+}
+/* .topNav
+{
+    box-shadow:0px 5px 8px 5px #ffc107 ; 
+} */
+.topNav .navbar
+{
+    background-color: #001731ec;
+}
+.topNav .navbar .navbar-nav .nav-link{
+    color:#fff;
+}
+.topNav .navbar .navbar-nav a{
+    font-size: 12px;
+    text-transform: uppercase;
+    transition: all 0.2s ease-in;
+}
+.topNav .navbar .navbar-nav a:hover
+{
+   color: #ffc107;
+}
+.topNav .navbar .navbar-brand
+{ font-size: 20px;
+    text-transform: uppercase;
+    font-weight: 500;
+    font-family: "Tilt Prism", "Sofia", sans-serif;
+    letter-spacing:3px;
+}
+.card .fnt
+{
+    font-family: "Raleway", "Sofia", sans-serif;
+    font-size: 35px;
+    font-weight:900;
+}
+.myfolio
+{
+ background-color: #0c0c0cec;   
+}
+.myfolio .card
+{
+    box-shadow:0px 0px 8px 0px #ffc107 ;
+}
+.myfolio .card .card-body .prof
+{
+    /* font-family: "Tilt Prism", "Sofia", sans-serif; */
+    font-weight:900;
+    font-size: 18px;
+    /* border-bottom:2px solid #ffc107; */
+    
+}
+#dash
+{
+    /* padding-left:50px;
+    border-bottom:4px solid #ffc107; */
+    padding: 0px 50px 0 0;
+    border-bottom: 4px solid #ffc107;
+
+}
+.card .bg-drrk
+{
+    background-color: #000;
+}
+#element
+{
+    color:#ffc107;
+}
